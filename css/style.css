@@ -1,0 +1,71 @@
+.nav-item{
+    padding: 22px 0px 0px;
+    width: 200px;
+    text-align: center;
+}
+
+.nav-link{
+    font-weight: bold;
+}
+
+.about{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.news-text{
+    font-size: 45px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.carousel-control-prev-icon{
+    background-image: url(../img/back.svg);
+}
+
+.carousel-control-next-icon{
+    background-image: url(../img/next.svg);
+}
+
+.carousel-control-prev {
+    left: -150px;
+}
+
+.carousel-control-next {
+    right: -150px;
+}
+
+.start-page{
+    background-color: rgb(14, 13, 13) ;
+}
+
+.hero-move {
+    text-align: center;
+}
+
+.heading-1{
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: none;
+    color: white;
+}
+
+.heading-2{
+    display: block;
+    margin-left: 0;
+    color:rgb(200, 241, 15);
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.red-text{
+    color:rgb(211, 22, 22);
+}
+
+.btn-bg{
+    background-color: darkorange;
+}
+
+.carting-1{
+    background-image: url(img/about-1.jpeg);
+}
